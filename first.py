@@ -20,7 +20,7 @@ def processing(doc):
                     keywords.append(token.lemma_)
 
     df = pd.read_csv(
-        r"C:\Users\adamj\OneDrive\Desktop\ProgrammingStuff\python\captionit-keys\quotes.csv")
+        r"C:\quotes.csv")
     df.dropna(inplace=True)
 
     category = df['category']
