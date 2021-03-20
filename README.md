@@ -1,10 +1,16 @@
 # captionit-backend
+
+
 ***CONSISTS OF TWO BACKEND FILES NAMELY first.py and rev_1f-Copy.py***
+
+
 ## Pre-requisites for backend
-###Download data set from https://www.kaggle.com/manann/quotes-500k?select=quotes.csv and ensure its location as C:/quotes1.csv
 
 
-###Run following codes on terminal to install pre-requisites if not present
+Download data set from https://www.kaggle.com/manann/quotes-500k?select=quotes.csv and ensure its location as C:/quotes1.csv
+
+
+Run following codes on terminal to install pre-requisites if not present
 
 `pip install spacy`
 
