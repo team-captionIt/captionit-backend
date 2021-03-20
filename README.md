@@ -11,9 +11,13 @@
 
 `python -m spacy download en_core_web_sm`
 
-`pip install flask`
+`pip install flask flask-cors`
+
+## Installation
+Clone this repository and run first.py
 
 
+## Details 
 In the rev_1f-Copy.py file, we have the main backend code which handles the Natural Language Processing(NLP) algorithm.
 This file uses the "spacy" library to find necessary keywords from a given statement. Using this, we are able to parse
 keywords from the information extracted from the image.
