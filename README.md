@@ -7,7 +7,7 @@
 ## Pre-requisites for backend
 
 
-Download data set from https://www.kaggle.com/manann/quotes-500k?select=quotes.csv and ensure its location as C:/quotes1.csv
+Download data set from https://www.kaggle.com/manann/quotes-500k?select=quotes.csv and ensure its location as C:/quotes.csv
 
 
 Run following codes on terminal to install pre-requisites if not present
